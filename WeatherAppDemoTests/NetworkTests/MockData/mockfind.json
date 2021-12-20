@@ -1,0 +1,377 @@
+{
+  "message": "accurate",
+  "cod": "200",
+  "count": 10,
+  "list": [
+    {
+      "id": 5341145,
+      "name": "Cupertino",
+      "coord": {
+        "lat": 37.323,
+        "lon": -122.0322
+      },
+      "main": {
+        "temp": 6.71,
+        "feels_like": 6.71,
+        "temp_min": 4.47,
+        "temp_max": 9.07,
+        "pressure": 1019,
+        "humidity": 83
+      },
+      "dt": 1639883365,
+      "wind": {
+        "speed": 0.45,
+        "deg": 265
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ]
+    },
+    {
+      "id": 5400075,
+      "name": "Sunnyvale",
+      "coord": {
+        "lat": 37.3688,
+        "lon": -122.0363
+      },
+      "main": {
+        "temp": 6.85,
+        "feels_like": 6.85,
+        "temp_min": 4.7,
+        "temp_max": 9.25,
+        "pressure": 1019,
+        "humidity": 82
+      },
+      "dt": 1639883362,
+      "wind": {
+        "speed": 0.45,
+        "deg": 265
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 5369114,
+      "name": "Loyola",
+      "coord": {
+        "lat": 37.3513,
+        "lon": -122.1005
+      },
+      "main": {
+        "temp": 6.59,
+        "feels_like": 6.59,
+        "temp_min": 4.4,
+        "temp_max": 8.99,
+        "pressure": 1019,
+        "humidity": 83
+      },
+      "dt": 1639883379,
+      "wind": {
+        "speed": 0.45,
+        "deg": 265
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 5393015,
+      "name": "Santa Clara",
+      "coord": {
+        "lat": 37.3541,
+        "lon": -121.9552
+      },
+      "main": {
+        "temp": 6.98,
+        "feels_like": 6.16,
+        "temp_min": 4.8,
+        "temp_max": 9.35,
+        "pressure": 1020,
+        "humidity": 82
+      },
+      "dt": 1639883362,
+      "wind": {
+        "speed": 1.54,
+        "deg": 260
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ]
+    },
+    {
+      "id": 5393485,
+      "name": "Saratoga",
+      "coord": {
+        "lat": 37.2638,
+        "lon": -122.023
+      },
+      "main": {
+        "temp": 6.38,
+        "feels_like": 4.75,
+        "temp_min": 4.08,
+        "temp_max": 8.68,
+        "pressure": 1020,
+        "humidity": 81
+      },
+      "dt": 1639883362,
+      "wind": {
+        "speed": 2.24,
+        "deg": 270
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ]
+    },
+    {
+      "id": 5375480,
+      "name": "Mountain View",
+      "coord": {
+        "lat": 37.3861,
+        "lon": -122.0838
+      },
+      "main": {
+        "temp": 6.88,
+        "feels_like": 6.88,
+        "temp_min": 4.74,
+        "temp_max": 9.18,
+        "pressure": 1019,
+        "humidity": 83
+      },
+      "dt": 1639883362,
+      "wind": {
+        "speed": 0,
+        "deg": 0
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 5333689,
+      "name": "Campbell",
+      "coord": {
+        "lat": 37.2872,
+        "lon": -121.95
+      },
+      "main": {
+        "temp": 6.84,
+        "feels_like": 6.84,
+        "temp_min": 4.55,
+        "temp_max": 9.15,
+        "pressure": 1020,
+        "humidity": 81
+      },
+      "dt": 1639883363,
+      "wind": {
+        "speed": 0.45,
+        "deg": 206
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ]
+    },
+    {
+      "id": 5331836,
+      "name": "Burbank",
+      "coord": {
+        "lat": 37.3233,
+        "lon": -121.9316
+      },
+      "main": {
+        "temp": 6.94,
+        "feels_like": 6.11,
+        "temp_min": 4.7,
+        "temp_max": 9.29,
+        "pressure": 1020,
+        "humidity": 82
+      },
+      "dt": 1639883374,
+      "wind": {
+        "speed": 1.54,
+        "deg": 260
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ]
+    },
+    {
+      "id": 5368335,
+      "name": "Los Altos",
+      "coord": {
+        "lat": 37.3852,
+        "lon": -122.1141
+      },
+      "main": {
+        "temp": 6.76,
+        "feels_like": 6.76,
+        "temp_min": 4.62,
+        "temp_max": 9.06,
+        "pressure": 1019,
+        "humidity": 84
+      },
+      "dt": 1639883362,
+      "wind": {
+        "speed": 0.89,
+        "deg": 51
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 1
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ]
+    },
+    {
+      "id": 5331587,
+      "name": "Buena Vista",
+      "coord": {
+        "lat": 37.3213,
+        "lon": -121.9166
+      },
+      "main": {
+        "temp": 6.97,
+        "feels_like": 6.15,
+        "temp_min": 4.7,
+        "temp_max": 9.3,
+        "pressure": 1020,
+        "humidity": 82
+      },
+      "dt": 1639883592,
+      "wind": {
+        "speed": 1.54,
+        "deg": 260
+      },
+      "sys": {
+        "country": "US"
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ]
+    }
+  ]
+}

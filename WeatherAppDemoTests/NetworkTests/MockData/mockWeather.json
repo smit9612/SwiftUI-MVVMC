@@ -1,0 +1,47 @@
+{
+  "coord": {
+    "lon": -73.8496,
+    "lat": 43.1001
+  },
+  "weather": [
+    {
+      "id": 601,
+      "main": "Snow",
+      "description": "snow",
+      "icon": "13n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": -0.31,
+    "feels_like": -2.66,
+    "temp_min": -2.12,
+    "temp_max": 2.05,
+    "pressure": 1010,
+    "humidity": 96
+  },
+  "visibility": 270,
+  "wind": {
+    "speed": 1.88,
+    "deg": 34,
+    "gust": 3.72
+  },
+  "snow": {
+    "1h": 0.65
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1639884284,
+  "sys": {
+    "type": 2,
+    "id": 2040408,
+    "country": "US",
+    "sunrise": 1639830139,
+    "sunset": 1639862521
+  },
+  "timezone": -18000,
+  "id": 5136325,
+  "name": "Saratoga",
+  "cod": 200
+}
